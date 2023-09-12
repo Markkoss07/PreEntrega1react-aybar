@@ -1,4 +1,31 @@
-.App {
+.navbar {
+  background-color: black;
+}
+
+.carrito{
+  color: aliceblue;
+}
+.saludo{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: #000;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+.botonBienvenida{
+  border-radius: 10px;
+  background-color: red;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +62,5 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
